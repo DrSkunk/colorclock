@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/colorclock/static/css/main.6426425b.chunk.css"
   },
   {
-    "revision": "f0edf1d1cc114fb8a652c50d4f8353a5",
+    "revision": "0f3801257d2a7a86ca282be5d6a971b6",
     "url": "/colorclock/index.html"
   }
 ];
